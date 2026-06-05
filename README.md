@@ -63,7 +63,7 @@ The simulation successfully demonstrates:
 
 ## Input Voltage Waveform
 
-![Input Voltage](input_voltage.png)
+![Input Voltage](https://github.com/Pavithra-005-G/Vibration-Based-Energy-Harvesting-System/blob/main/INPUT%20VOLTAGE.jpg.jpeg)
 
 ## Rectified Voltage Waveform
 
