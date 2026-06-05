@@ -57,6 +57,23 @@ The simulation successfully demonstrates:
 * Stable voltage regulation using a buck converter.
 * Suitability for powering low-power electronic devices.
 
+## Circuit Diagram
+
+![Circuit Diagram]()
+
+## Input Voltage Waveform
+
+![Input Voltage](input_voltage.png)
+
+## Rectified Voltage Waveform
+
+![Rectified Voltage](rectified_voltage.png)
+
+## Output Voltage Waveform
+
+![Output Voltage](output_voltage.png)
+
+
 ## Applications
 
 * Wireless Sensor Networks
@@ -87,3 +104,5 @@ NSS College of Engineering, Palakkad
 ## License
 
 This project is intended for academic and educational purposes.
+
+
