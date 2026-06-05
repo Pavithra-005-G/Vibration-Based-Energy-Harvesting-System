@@ -71,7 +71,7 @@ The simulation successfully demonstrates:
 
 ## Output Voltage Waveform
 
-![Output Voltage](output_voltage.png)
+![Output Voltage](https://github.com/Pavithra-005-G/Vibration-Based-Energy-Harvesting-System/blob/main/OUTPUT%20VOLTAGE.jpg%20(1).jpeg)
 
 
 ## Applications
