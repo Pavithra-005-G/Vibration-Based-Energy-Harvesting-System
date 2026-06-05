@@ -67,7 +67,7 @@ The simulation successfully demonstrates:
 
 ## Rectified Voltage Waveform
 
-![Rectified Voltage](rectified_voltage.png)
+![Rectified Voltage](https://github.com/Pavithra-005-G/Vibration-Based-Energy-Harvesting-System/blob/main/OUTPUT%20CURRENT.jpg.jpeg)
 
 ## Output Voltage Waveform
 
