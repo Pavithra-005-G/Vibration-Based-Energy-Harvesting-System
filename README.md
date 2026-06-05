@@ -59,7 +59,7 @@ The simulation successfully demonstrates:
 
 ## Circuit Diagram
 
-![Circuit Diagram]()
+![Circuit Diagram](https://github.com/Pavithra-005-G/Vibration-Based-Energy-Harvesting-System/blob/main/simulink.jpeg)
 
 ## Input Voltage Waveform
 
